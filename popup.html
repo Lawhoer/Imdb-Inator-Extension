@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>IMDB-INATOR</title>
+
+    <link rel="stylesheet" href="popup.css" />
+
+</head>
+
+<body>
+    <div class="b1 b"></div>
+    <div class="b2 b"></div>
+    <div class="b3 b">
+        <div class="lds-ring">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+
+
+    <section class="slider-wrapper">
+        <div class="slider">
+
+            <section id="slide-1">
+                <div class="main">
+                    <div class="header div">
+                        <div>What's u looking for my friend?</div>
+                    </div>
+
+                    <input type="text" id="form" placeholder="Movie name?">
+                    <input type="button" id="button" value="Enter">
+                </div>
+
+                <div class="container">
+
+                    <a href="" class="arrow"></a>
+                    
+
+
+                    <div class="pic">
+                        <img src="" alt="resim">
+                    </div>
+                    <div class="details">
+
+                        <div class="Baslik box">
+                            <div class="Name box">
+                                <div>Fury</div>
+                            </div>
+                            <div class="Years box">
+                                <div>2017</div>
+                            </div>
+                            <div class="Rating box">
+                                <div>* 7,6</div>
+                            </div>
+                        </div>
+
+                        <div class="box a">
+                            <div class="description">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                                Asperiores accusantium, atque pariatur minima, iusto voluptatum nemo rem rerum,
+                                voluptatibus eos quasi quis commodi totam!</div>
+                        </div>
+                        <div class="box a">
+                            <div class="gen">Director:</div>
+                            <div class="director">Eren Akinci, Betül Armagan</div>
+                        </div>
+                        <div class="box a">
+                            <div class="gen">Writers:</div>
+                            <div class="writers">Tolga Akinci</div>
+                        </div>
+                        <div class="box a">
+                            <div class="gen">Stars:</div>
+                            <div class="stars">Eren Akinci, Betül Armagan, Tolga Akinci,Aziz Akini</div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="slide-2">
+                <div class="FlashBack">
+                    <div class="CardBody">
+
+                        <div class="card">
+                            <a href="#slide-1"><img src="cover-not-available.jpg"
+                                alt="" class="card__img"></a>
+                        </div>
+
+                        <div class="card">
+                            <a href="#slide-1"><img src="cover-not-available.jpg"
+                                alt="" class="card__img"></a>
+                        </div>
+
+                        <div class="card">
+                            <a href="#slide-1"><img src="cover-not-available.jpg"
+                                alt="" class="card__img"></a>
+                        </div>
+
+                    </div>
+
+                </div>
+            </section>
+        </div>
+
+        <div class="slider-nav">
+            <a href="#slide-1">
+                <div class="border"></div>
+            </a>
+            <a href="#slide-2">
+                <div class="border"></div>
+            </a>
+        </div>
+    </section>
+
+
+
+    <script src="index.js"></script>
+    <script src="api.js"></script>
+</body>
+
+</html>

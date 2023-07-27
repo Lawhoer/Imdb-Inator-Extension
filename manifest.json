@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "IMDB-INATOR",
+    "version": "1.0",
+    "description": "Hizlica merak ettiginiz filmler hakkinda bilgi almaniza yardimci olucak bir uzanti",
+    "icons": {
+      "48": "icon.png"
+    },
+
+    "browser_action": {
+        "default_popup": "popup.html"
+      }
+  }

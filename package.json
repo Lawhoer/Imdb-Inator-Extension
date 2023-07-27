@@ -1,0 +1,13 @@
+{
+  "name": "extension",
+  "version": "1.0.0",
+  "description": "Imdb Chrome Extension",
+  "main": "index.js,api.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
