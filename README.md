@@ -1,5 +1,9 @@
 # Imdb-Inator
 
 
-Uploading imdb-inator-v2_Trim.mp4…
+
+
+
+
+https://github.com/Lawhoer/Imdb-Inator/assets/98128167/e9828911-a5ae-4cea-b832-03cec1f605e1
 
