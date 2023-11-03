@@ -1,4 +1,4 @@
-# Imdb-Inator
+# Imdb-Inator-Extension
 An application that allows you to quickly find details about the movies you want without entering the site.
 
 https://github.com/Lawhoer/Imdb-Inator/assets/98128167/e9828911-a5ae-4cea-b832-03cec1f605e1
