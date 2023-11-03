@@ -11,4 +11,4 @@ https://github.com/Lawhoer/Imdb-Inator/assets/98128167/e9828911-a5ae-4cea-b832-0
 - Now you can do cool things on video. Go ahead, don't hesitate, try it.
 
 ### REMEMBER!!
-- You can't use this extension without "Imdb-Extension-Server," don't forget to download and run it.
+- You can't use this extension without [Imdb-Extension-Server](https://github.com/Lawhoer/Imdb-Extension-Server) don't forget to download and run it.
